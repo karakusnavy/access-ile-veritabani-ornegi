@@ -17,7 +17,7 @@ namespace vt_kod4
             InitializeComponent();
         }
 
-
+//samet karakus
         OleDbConnection bag = new OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=musteri.accdb");
         OleDbDataAdapter kurye;
         DataSet ds = new DataSet();
