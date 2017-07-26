@@ -14,3 +14,6 @@ G:\ \vt_kod4\vt_kod4\vt_kod4\bin\Debug\vt_kod4.pdb
 G:\ \vt_kod4\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.Form1.resources
 G:\ \vt_kod4\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.Properties.Resources.resources
 G:\ \vt_kod4\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.csproj.GenerateResource.Cache
+C:\Users\karak\Desktop\access-ile-veritabani-ornegi\vt_kod4\vt_kod4\bin\Debug\vt_kod4.exe.config
+C:\Users\karak\Desktop\access-ile-veritabani-ornegi\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.exe
+C:\Users\karak\Desktop\access-ile-veritabani-ornegi\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.pdb
