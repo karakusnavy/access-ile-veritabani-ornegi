@@ -1,0 +1,12 @@
+E:\Samet Karakuş\vt_kod4\vt_kod4\bin\Debug\vt_kod4.exe
+E:\Samet Karakuş\vt_kod4\vt_kod4\bin\Debug\vt_kod4.pdb
+E:\Samet Karakuş\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.Form1.resources
+E:\Samet Karakuş\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.Properties.Resources.resources
+E:\Samet Karakuş\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.csproj.GenerateResource.Cache
+E:\Samet Karakuş\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.exe
+E:\Samet Karakuş\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.pdb
+E:\Samet Karakuş\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.csprojResolveAssemblyReference.cache
+F:\e\Samet Karakuş\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.exe
+F:\e\Samet Karakuş\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.pdb
+F:\ \e\Samet Karakuş\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.exe
+F:\ \e\Samet Karakuş\vt_kod4\vt_kod4\obj\x86\Debug\vt_kod4.pdb

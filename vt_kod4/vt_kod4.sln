@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vt_kod4", "vt_kod4\vt_kod4.csproj", "{2D5EC8D2-D958-4630-83F0-CFF742A3B71B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D5EC8D2-D958-4630-83F0-CFF742A3B71B}.Debug|x86.ActiveCfg = Debug|x86
+		{2D5EC8D2-D958-4630-83F0-CFF742A3B71B}.Debug|x86.Build.0 = Debug|x86
+		{2D5EC8D2-D958-4630-83F0-CFF742A3B71B}.Release|x86.ActiveCfg = Release|x86
+		{2D5EC8D2-D958-4630-83F0-CFF742A3B71B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
